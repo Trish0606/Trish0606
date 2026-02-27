@@ -2,7 +2,6 @@
 # 💫 Hi, I'm Tuyet!
 
 I am an Applied Technology student at San Jacinto College with a core background in Computer Science from the University of Houston. My academic journey is driven by a transition from theoretical foundations to practical, industry-standard application.<br><br>
-
 My primary technical interests lie at the intersection of Process Automation and Frontend Data Integration. I have a proven track record of developing automated pipelines using GitHub Actions and Python, and I am passionate about creating intuitive user experiences that leverage real-time data. I am constantly looking for ways to streamline workflows and visualize complex information through modern web technologies.
 
 -------
